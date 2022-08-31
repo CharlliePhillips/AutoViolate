@@ -1,0 +1,102 @@
+FIRST NAME ,LAST NAME ,POOL,"Inservice
+5/7/22","Clinic 
+5/14/2022","Inservice
+ 5/21/22","Clinic 
+5/28/22","Inservice
+ 6/2/22","Clinic 
+6/9/22","Inservice
+ 6/16/22","Clinic 
+6/23/22","Inservice
+ 6/30/22","Clinic 
+7/7/22","Inservice
+ 7/14/2022","Clinic 
+7/21/2022",placeholder inservice,"LGO
+7/26/2022","Inservice
+ 7/28/2022",,"Recertification
+DATE","Recertification
+DATE","Recertification
+DATE","Inservice
+ DATE"
+1,1,pool name,,,2,,2,2,2,,,,,,,,,,,,,
+2,2,pool name,,,EXC,,,,2,Moved to SH,s,s,s,s,s,s,s,s,s,s,s,
+3,3,pool name,,,2,,2,,2,,2,,,,,,,,,,,
+4,4,pool name,2,,,,2,,2,,2,,2,,,2,,,,,,
+5,5,pool name,,,,Training Class ,,,,,2,,2,,,,,,,,,
+6,6,pool name,2,,,2,2,2,HGP,2,,2,2,2,,2,2,,,,,
+7,7,pool name,2,,2,,2,,HGP,,2,,,,,,2,,,,,
+8,8,pool name,,,Training Class,,EXC,,2,,2,,,,,,,,,,,
+9,9,pool name,2,,2,,2,Quit - NO 2 weeks,,s,QUIT,QUIT,QUIT,QUIT,,,QUIT,QUIT,QUIT,QUIT,QUIT,QUIT
+10,10,pool name,,,Training Class,,2,,,,,,,,,,,,,,,
+11,11,pool name,,,,,,,,,Training Class ,,2,,,,,,,,,
+12,12,pool name,2,,2,,Late 1,,LATE,,2,,2,2,,,,,,,,
+13,13,pool name,2,,2,,,,2,,2,2,2,,,2,2,,,,,
+14,14,pool name,EXC,,2,,Late,2,LATE,,2,,2,,,2,2,,,,,
+15,15,pool name,2,,2,,,,OOT,,OOT,,OOT,,,,2,,,,,
+16,16,pool name,,,,,2,,DOCTOR,,,,,,,,,,,,,
+17,17,pool name,,,,Training Class,,,OOT,,2,,,,,,,,,,,
+18,18,pool name,2,,2,,2,2,LATE,2,2,2,2,2,,,,,,,,
+19,19,pool name,,,,,2,,HGP,,,,2,2,,,2,,,,,
+20,20,pool name,,,,,,,OOT,,2,,2,Quit,s,s,s,s,s,s,,
+21,21,pool name,2,,2,,2,,HGP,,2,,2,,,2,2,,,,,
+22,22,pool name,,,,,,,,,,Training Class,2,,,,,,,,,
+23,23,pool name,,,,,,,Training Class,,,,2,,,,,,,,,
+24,24,pool name,,,,,,,,,2,,2,,,,,,,,,
+25,25,pool name,2,,,Terminated ,FIRED,FIRED,FIRED,FIRED,FIRED,FIRED,FIRED,FIRED,,,FIRED,FIRED,FIRED,FIRED,FIRED,FIRED
+26,26,pool name,2,,2,,2,,OOT,,2,,2,2,,,,,,,,
+27,27,pool name,2,,,,late,,,,2,,2,,,,,,,,,
+28,28,pool name,,,2,,,,,,,,,,,,,,,,,
+29,29,pool name,2,,2,,2,2,OOT,,2,2,2,,,2,,,,,,
+30,30,pool name,,,2,,,,,,,,,Quit - 2 Weeks,,,,,,,,
+31,31,pool name,EXC,,2,,Late,2,2,2,2,2,2,2,,2,2,,,,,
+32,32,pool name,,,,2,Late,,2,,,,2,,,,,,,,,
+33,33,pool name,2,,,2,2,,HGP,,,,,,,2,2,,,,,
+34,34,pool name,2,,2,,2,,HGP,,,,2,,,,2,,,,,
+35,35,pool name,2,,,,2,,OOT,,2,Moved to NG,,,,,,,,,,
+36,36,pool name,2,,,,,2,2,,2,,,,,2,2,,,,,
+37,37,pool name,2,,2,,2,,LATE,2,2,,2,,,2,,,,,,
+38,38,pool name,2,,2,,Late,,2,2,2,2,2,2,,2,2,,,,,
+39,39,pool name,2,,2,,EXC,,OOT,,2,2,2,,,2,2,,,,,
+40,40,pool name,2,,,2,late,,LATE,,,,2,,,,,,,,,
+41,41,pool name,,,2,,,,OOT,,,,,,,,2,,,,,
+42,42,pool name,2,,2,,Late (EXC),,2,,2,2,2,2,,2,2,,,,,
+43,43,pool name,,,,,2,,,,,,,,,,,,,,,
+44,44,pool name,2,,2,Quit - 2 Weeks,,,,,,,,,,,,,,,,
+45,45,pool name,2,2,,2,EXC,2,2,2,2,2,2,2,,2,2,,,,,
+46,46,pool name,,,2,,EXC,,HGP,,2,,2,,,,,,,,,
+47,47,pool name,2,,,2,,,2,,,,,,,,,,,,,
+48,48,pool name,,,,,,,OOT,,2,,2,,,,,,,,,
+49,49,pool name,2,,,,2,,HGP,,,,,,,,,,,,,
+50,50,pool name,,,,,,,,,,,,,,,,,,,,
+51,51,pool name,2,,,2,EXC,,SUMMER SCHOOL,,,,,,,,,,,,,
+52,52,pool name,2,,,,late,,,,2,,,,,,,,,,,
+53,53,pool name,,,,Training Class,2,,HGP,,2,2,2,2,,2,2,,,,,
+54,54,pool name,,,2,,2,2,2,,2,,2,,,2,,,,,,
+55,55,pool name,2,,2,,2,2,,,OOT,,2,,,2,2,,,,,
+56,56,pool name,2,,,,Training Class,,,,,,,,,,,Termiated ,,,,
+57,57,pool name,2,,2,,2,,OOT,,2,,2,,,,OOT,,,,,
+58,58,pool name,,,2,,,,,,2,,,,,,,,,,,
+59,59,pool name,2,,2,,2,2,HGP,,,,2,,,,,,,,,
+60,60,pool name,,Training Class,2,,,2,LATE,,2,,,,,2,,,,,,
+61,61,pool name,,,,,2,2,LATE,,2,,2,,,,2,,,,,
+62,62,pool name,2,,2,,2,,OOT,,,,,,,2,2,,,,,
+63,63,pool name,SICK,,2,,Sent Home,2,2,,Quit - 2 weeks,,,,,,,,,,,
+64,64,pool name,,,2,,,2,HGP,,2,,2,,,2,2,,,,,
+65,65,pool name,2,,2,,Late,,LATE,,,,2,,,2,2,,,,,
+66,66,pool name,2,2,2,2,2,2,HGP,2,2,2,2,2,,2,2,,,,,
+67,67,pool name,,,,,,,LATE,,,,,,,,,,,,,
+68,68,pool name,2,,,,2,2,HGP,,,,2,,,,2,,,,,
+69,69,pool name,2,,,,Late,,,,,,,,,,,,,,,
+70,70,pool name,,,,,,,LATE,,,,,,,,,Quit,,,,
+71,71,pool name,,,2,,,,,,,,,,,,,,,,,
+72,72,pool name,2,,,,,,,,,,,,,,,,,,,
+73,73,pool name,,,2,2,,,2,,,,2,,,,,,,,,
+74,74,pool name,2,,2,,2,,2,,2,,2,,,,,,,,,
+75,75,pool name,,,,,,,,,,,,,,,,,,,,
+76,76,pool name,2,,,2,EXC,2,HGP,,2,,2,,,,2,,,,,
+77,77,pool name,2,,2,2,,,,,,,2,,,,,,,,,
+78,78,pool name,,,,,,,,,2,,2,,,,2,,,,,
+79,79,pool name,2,,2,,2,,2,,2,,2,,,2,2,,,,,
+80,80,pool name,2,,2,,,,2,,2,,Termiated ,,,,,,,,,
+81,81,pool name,2,,2,,2,,HGP,,2,2,2,2,,,2,,,,,
+82,82,pool name,2,,,,Late,,,,,,,,,,,,,,,
+83,83,pool name,2,,2,,,,,,2,,,,,,,,,,,
